@@ -6,10 +6,10 @@ Tsunami Prediction using Ensemble Machine Learning Algorithm I Used 4 Stack Algo
 4. Support Vector Machine (SVM)
 
 The Technologies used :
-IBM Cloud Object Storage
-IBM Watson Studio
-IBM Watson Machine Learning
-IBM AutoAI Service
-GitHub
+1. IBM Cloud Object Storage
+2. IBM Watson Studio
+3. IBM Watson Machine Learning
+4. IBM AutoAI Service
+5. GitHub
 
 The Goal of This Project Is To Train The Machine About Tsunami Indications From Earthquakes. This goal, if the machine functions well, will be able to help humans audit earthquake data and carry out mitigation early before a disaster occurs.
